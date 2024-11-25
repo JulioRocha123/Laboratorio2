@@ -1,4 +1,3 @@
-from collections import deque
 from banco import CuentaBancaria
 def procesar_cliente(cliente):
     while True:
